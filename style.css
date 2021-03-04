@@ -72,3 +72,13 @@ aside {
   float: right;
   background: #ebe7dd;
 }
+
+section#visita {
+ background: #cdc8b1 ;
+ padding: 10px 27px 27px 27px;
+ margin-top: 10px;
+}
+
+h4 {
+  color: #86521a;
+}
