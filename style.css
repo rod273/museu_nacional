@@ -1,3 +1,11 @@
 body {
-  background-color: aquamarine;
+  background: #f4f2ec url(img/fundo.png) repeat-x;
+  font: 12px 'Josefin Sans', sans-serif;
 }
+
+#container {
+  width: 1080px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+}
+
