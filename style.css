@@ -8,7 +8,7 @@ body {
   margin: 0 auto;
 }
 
-a:link , a:active , a:visited {
+a:link , a:active , a:visited, p {
   color: #af670a;
   text-decoration: none;
 }
@@ -97,8 +97,36 @@ section#galeria img {
   margin-top: 3px;
 }
 
+article#video {
+  float: left;
+  width: 310px;
+  margin-left: 25px;
+}
+
+article#mapa {
+  float: left;
+  width: 310px;
+  margin-left: 37px;
+}
+
+article#exposicoes {
+  float: left;
+  width: 310px;
+  margin: 15px 0 0 25px;
+}
+
+article#historia {
+  float: left;
+  width: 310px;
+  margin-left: 25px;
+  margin: 15px 0 0 37px;
+}
+
 h3 {
-  
+  color: #227115;
+  font-size: 1.0em;
+  margin-bottom: 15px;
+  text-transform: uppercase;
 }
 
 h4 {
