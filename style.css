@@ -136,6 +136,13 @@ h4 {
   margin-bottom: 0;
 }
 
+/* rodapé */
+
+footer {
+  padding: 20px 0 30px 0;
+}
+
+
 /***** formularios ******/
 
 input {
