@@ -148,6 +148,10 @@ footer {
   
 }
 
+footer>p a{
+  padding: 2px 10px;
+}
+
 
 /***** formularios ******/
 
